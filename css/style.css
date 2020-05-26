@@ -1,0 +1,35 @@
+footer {
+    background-image: url("../Layout/background.png");
+}
+
+.slider h3,
+.slider h5,
+.information h3,
+.members h3,
+.adminprofile,
+.memberprofile h3,
+.userprofile h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0);
+}
+
+.parallax-container {
+    height: 15%;
+}
+
+.contactus img{
+    max-width: 30px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section, footer {
+    padding: 1% 0;
+}
+
+.adminprofile img,
+.userprofile img {
+    width: 50px;
+}
+
+.login {
+    height: 20%;
+}
